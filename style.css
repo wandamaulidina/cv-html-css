@@ -1,0 +1,28 @@
+body {
+    background-image:url(https://manjaro.org/img/bg.svg);
+	background-size: auto;
+	background-color: #f0f0f0;
+    background-size: contain;
+	background-repeat: no-repeat;
+	background-position: -232px 232px;
+	background-attachment: fixed;
+	width: 100%;
+	}
+#colspan{
+	background-color: rgb(171, 188, 202);
+	background-position: center center;
+	box-shadow: 0 0 25px;
+	width: 99%;
+	height: 1127.15px;
+	text-align: justify;
+	float: left;
+	padding: 0 8px;
+	padding-right: 16px;
+	}
+img  {
+    size: cover;
+    width: 20%;
+    height: 225.18px;
+    line-height: 1.5px;
+}
+            
